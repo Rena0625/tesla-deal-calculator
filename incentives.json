@@ -1,0 +1,34 @@
+{
+  "federal": {
+    "model3_rwd": 7500,
+    "model3_awd": 7500,
+    "modelY_rwd": 7500,
+    "modelY_awd": 7500
+  },
+  "states": {
+    "CA": {
+      "name": "California",
+      "rebate": 2000,
+      "condition": "Income under $135,000 for single filer"
+    },
+    "CO": {
+      "name": "Colorado", 
+      "rebate": 5000,
+      "condition": "No income limit"
+    },
+    "MI": {
+      "name": "Michigan",
+      "rebate": 0,
+      "condition": "No state EV rebate currently"
+    },
+    "TX": {
+      "name": "Texas",
+      "rebate": 0,
+      "condition": "No state EV rebate currently"
+    }
+  },
+  "referral": {
+    "discount": 500,
+    "condition": "Need a valid referral code from existing Tesla owner"
+  }
+}
